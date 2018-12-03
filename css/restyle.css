@@ -1,0 +1,14 @@
+.icons__wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items: stretch;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.title__img {
+    width: 200px;
+}
