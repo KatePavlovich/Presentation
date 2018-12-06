@@ -1,3 +1,7 @@
+.link-wrapper--position {
+    text-align: right;
+}
+
 .icons__wrapper {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -11,4 +15,17 @@ img {
 
 .title__img {
     width: 200px;
+}
+
+tr, td, th {
+    border: 1px solid #fff !important;
+}
+
+td {
+    width: 50% !important;
+    font-size: 1rem !important;
+}
+
+.column__title {
+    text-align: center !important;
 }
